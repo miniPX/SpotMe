@@ -1,0 +1,18 @@
+# .gitignore
+.env
+config.json
+SpotMe-95a5f1db4400.json
+# Logs
+logs/
+.logs/
+*.log
+*.logs
+npm-debug.log*
+# Dependencies
+node_modules/
+# Cache
+.npm
+# Operating System
+.DS_Store
+# Editor
+.vscode
